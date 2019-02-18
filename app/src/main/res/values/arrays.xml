@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="kings">
+        <item>达摩</item>
+        <item>典韦</item>
+        <item>曹操</item>
+        <item>钟无艳</item>
+        <item>墨子</item>
+        <item>吕布</item>
+        <item>#关羽</item>
+        <item>孙悟空</item>
+        <item>哪吒露娜</item>
+        <item>兰陵王</item>
+        <item>李白</item>
+        <item>花木兰</item>
+        <item>程咬金</item>
+        <item>白起</item>
+        <item>庄周</item>
+        <item>廉颇</item>
+        <item>项羽</item>
+        <item>牛魔</item>
+        <item>张飞</item>
+        <item>百里守约</item>
+        <item>钟馗</item>
+        <item>哪吒</item>
+        <item>刘邦</item>
+        <item>~雅典娜</item>
+        <item>阿珂</item>
+        <item>夏侯惇</item>
+        <item>老夫子</item>
+        <item>亚瑟</item>
+        <item>韩信</item>
+        <item>高进</item>
+        <item>小乔</item>
+        <item>东皇太一</item>
+        <item>妲己</item>
+        <item>艾琳</item>
+        <item>高渐离</item>
+        <item>扁鹊</item>
+        <item>芈月</item>
+        <item>1诸葛亮</item>
+        <item>s甄姬</item>
+        <item>王昭君</item>
+        <item>周瑜</item>
+        <item>子牙</item>
+        <item>武则天</item>
+        <item>不知火舞</item>
+        <item>貂蝉</item>
+        <item>张良</item>
+        <item>马可波罗</item>
+        <item>鲁班七号</item>
+        <item>干将莫邪</item>
+        <item>孙尚香</item>
+        <item>嬴政</item>
+        <item>狄仁杰</item>
+    </string-array>
+</resources>
